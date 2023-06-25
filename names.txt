@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Start Writing names here-----
 
-=======
->>>>>>> 26a3f26e43bfbcba6c921d2ab288b875c54e3ffd
-sindhu
-
+NITk
